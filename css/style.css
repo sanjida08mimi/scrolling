@@ -1,0 +1,6 @@
+.scrl{
+    --bs-scroll-height: 220px;
+} 
+.modal-content{
+    background-image: url(../images/modal-bg.jpg);
+}
